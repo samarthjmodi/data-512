@@ -8,6 +8,9 @@ The goal of this assignment is to identify potential sources of bias in a corpus
 ## Data Source
 Google data scientists used these ([annotated datasets](https://figshare.com/projects/Wikipedia_Talk/16731)) to train machine learning models as part of a project called ([Conversation AI](https://conversationai.github.io/)). The models have been used in a variety of software products and made freely accessible to anyone through the Perspective API.
 
+Directory 'Figures' containes data visualizations created during the analysis.
+DISCLAIMER: Some images have been blurred due to explicit content.
+
 ## Relevant Links
 1. Overview of the research project: https://meta.wikimedia.org/wiki/Research:Detox 
 2. Dataset description and schemas: https://meta.wikimedia.org/wiki/Research:Detox/Data_Release
